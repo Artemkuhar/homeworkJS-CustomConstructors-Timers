@@ -1,0 +1,11 @@
+body{
+	background-color: black;
+	margin: 0 auto;
+	height: 100vh;
+}
+#clock{
+	line-height: 100vh;
+	color: #fff;
+	font-size: 200px;
+	text-align: center;
+};
